@@ -9,10 +9,7 @@ A comic characters list app that displays Marvel characters. It also allows you 
 - Webpack 
 
 ## Live Demo
-- Click [here](https://shaqdeff.github.io/KomiKult/) to view the live demo.
-
-## Presentation Video
-- Here's a [video](https://www.loom.com/share/af0372bbe7704093b08f1c9e4006bc1c) presenting the project in more detail.
+- Click [here](https://aftabdivan.github.io/Mosha-Travel/) to view the live demo.
 
 ## Getting Started
 To get a local copy up and running follow these simple steps.
@@ -24,9 +21,9 @@ To get a local copy up and running follow these simple steps.
 
 ### Setup
 - With git, clone the code to your machine, or download a ZIP of all the files directly.
-- [Download the ZIP file from this location](https://github.com/shaqdeff/KomiKult/archive/refs/heads/develop.zip) or run the following [git](https://git-scm.com/) command to clone the files to your machine:
+- run the following [git](https://git-scm.com/) command to clone the files to your machine:
 ```
-git clone https://github.com/shaqdeff/KomiKult.git
+git clone https://github.com/aftabdivan/Mosha-Travel.git
 ```
 - Once the files are on your machine, open the **KomiKult** folder in [Visual Studio Code](https://code.visualstudio.com/download).
 
@@ -36,16 +33,10 @@ git clone https://github.com/shaqdeff/KomiKult.git
 - Run ``` npm run start ``` to launch the files with Webpack Dev Server.
 
 ## Authors
-👤 **Shaquille Ndunda**
-- GitHub: [@shaqdeff](https://github.com/shaqdeff)
-- Twitter: [@shaquillendunda](https://twitter.com/shaquillendunda)
-- LinkedIn: [Shaquille Ndunda](https://www.linkedin.com/in/shaquille-ndunda-b13a95107/)
-- 
-
-👤 **Mohammed Raad**
-- GitHub: [@MoRaad97](https://github.com/MoRaad97)
-- Twitter: [@MohammedRaadz](https://twitter.com/MohammedRaadz)
-- LinkedIn: [Mohammed Raad](linkedin.com/in/mohammed-raad-600176210)
+👤 **Aftab Divan**
+- GitHub: [@aftabdivan](https://github.com/aftabdivan)
+- Twitter: [@divanaftab](https://twitter.com/divanaftab)
+- LinkedIn: [Aftab Divan](https://www.linkedin.com/in/aftab-divan-39b9041bb)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
